@@ -1,0 +1,5 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error		The command ""C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\bin\Debug\Shell.WRFM.GenerateXsltBatch.exe"
+rd /s /q "C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\bin\Debug\"
+copy /Y "C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\Dream\Dream.dll" "C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\bin\Debug\"
+copy /Y "C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\eBook\eBookXSL.dll" "C:\Users\Srikanth.Chinta\source\repos\latest 070520250516\WRFMSSW\WRFMSSWPortal\Shell.WRFM.GenerateXsltBatch\bin\Debug\"" exited with code 1.	Shell.WRFM.GenerateXsltBatch			
